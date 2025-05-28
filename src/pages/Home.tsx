@@ -25,7 +25,7 @@ const Home: React.FC = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-navy-800 mb-1">Livrare Gratuită</h3>
-                <p className="text-gray-600 text-sm">Pentru comenzi peste 500 lei în toată țara</p>
+                <p className="text-gray-600 text-sm">Pentru comenzi peste 1000 lei în toată țara</p>
               </div>
             </div>
             
