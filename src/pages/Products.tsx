@@ -90,23 +90,23 @@ const Products: React.FC = () => {
                 <ul className="space-y-2 text-gray-600">
                   <li className="flex items-center">
                     <Package className="h-5 w-5 text-teal-600 mr-2" />
-                    Frigidere și combine frigorifice
+                    Aparate de espresso
                   </li>
                   <li className="flex items-center">
                     <Package className="h-5 w-5 text-teal-600 mr-2" />
-                    Mașini de spălat rufe
+                    Aspiratoare robot
                   </li>
                   <li className="flex items-center">
                     <Package className="h-5 w-5 text-teal-600 mr-2" />
-                    Uscătoare de rufe
+                    Prăjitoare de pâine, blendere, stoarcătoare de suc
                   </li>
                   <li className="flex items-center">
                     <Package className="h-5 w-5 text-teal-600 mr-2" />
-                    Aragazuri și plite
+                    Purificatoare de aer și umidificatoare
                   </li>
                   <li className="flex items-center">
                     <Package className="h-5 w-5 text-teal-600 mr-2" />
-                    Cuptoare încorporabile
+                    Roboți de bucătărie și friteuze cu aer
                   </li>
                 </ul>
               </div>

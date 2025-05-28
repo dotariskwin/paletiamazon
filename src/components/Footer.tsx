@@ -48,11 +48,13 @@ const Footer: React.FC = () => {
                   Produse
                 </Link>
               </li>
-              <li>
-                <Link to="/contact" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Contact
-                </Link>
-              </li>
+            </ul>
+          </div>
+          
+          {/* Categories */}
+          <div>
+            <h3 className="text-xl font-semibold mb-4">Categorii</h3>
+            <ul className="space-y-2">
               <li>
                 <Link to="#" className="text-gray-300 hover:text-orange-500 transition-colors">
                   Termeni și Condiții
@@ -63,36 +65,9 @@ const Footer: React.FC = () => {
                   Politica de Confidențialitate
                 </Link>
               </li>
-            </ul>
-          </div>
-          
-          {/* Categories */}
-          <div>
-            <h3 className="text-xl font-semibold mb-4">Categorii</h3>
-            <ul className="space-y-2">
               <li>
-                <Link to="/products?category=frigidere" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Frigidere
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=masini-de-spalat" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Mașini de Spălat
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=aragazuri" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Aragazuri
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=cuptoare" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Cuptoare
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=uscatoare" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Uscătoare
+                <Link to="/contact" className="text-gray-300 hover:text-orange-500 transition-colors">
+                  Contact
                 </Link>
               </li>
               <li>

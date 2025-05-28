@@ -25,7 +25,7 @@ const Home: React.FC = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-navy-800 mb-1">Livrare Gratuită</h3>
-                <p className="text-gray-600 text-sm">Pentru comenzi peste 1000 lei în toată țara</p>
+                <p className="text-gray-600 text-sm">Pentru comenzi peste 300 lei în toată țara</p>
               </div>
             </div>
             
@@ -34,7 +34,7 @@ const Home: React.FC = () => {
                 <ShieldCheck className="h-6 w-6 text-teal-600" />
               </div>
               <div>
-                <h3 className="font-semibold text-navy-800 mb-1">Garanție 12 Luni</h3>
+                <h3 className="font-semibold text-navy-800 mb-1">Garanție 6 Luni</h3>
                 <p className="text-gray-600 text-sm">Toate produsele beneficiază de garanție</p>
               </div>
             </div>
@@ -72,7 +72,7 @@ const Home: React.FC = () => {
               className="rounded-lg overflow-hidden shadow-lg h-96 lg:h-[500px] relative"
             >
               <img 
-                src="https://images.pexels.com/photos/4108268/pexels-photo-4108268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://img001.prntscr.com/file/img001/c8tQxxGfQ_2ixxQ3MgMvkA.jpg" 
                 alt="Despre PaletShop" 
                 className="w-full h-full object-cover"
               />
