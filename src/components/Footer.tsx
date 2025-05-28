@@ -70,11 +70,6 @@ const Footer: React.FC = () => {
                   Contact
                 </Link>
               </li>
-              <li>
-                <Link to="/products?category=tv" className="text-gray-300 hover:text-orange-500 transition-colors">
-                  Televizoare
-                </Link>
-              </li>
             </ul>
           </div>
           
