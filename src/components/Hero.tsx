@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{ 
-          backgroundImage: "url('https://leelinesourcing.com/wp-content/uploads/2022/08/Amazon-Pallets-Near-Me.jpg')",
+          backgroundImage: "url('https://www.cjco.com.au/wp-content/uploads/Where-to-Buy-Amazon-Return-Pallets-in-Australia.jpg')",
           backgroundPosition: "center 30%"
         }}
       >
