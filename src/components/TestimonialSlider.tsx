@@ -34,7 +34,7 @@ const TestimonialSlider: React.FC = () => {
         <div className="text-center mb-10">
           <h2 className="text-3xl font-bold text-white mb-2">Ce Spun Clienții Noștri</h2>
           <p className="text-teal-100 max-w-2xl mx-auto">
-            Testimoniale de la clienții care au ales electrocasnicele recondiționate de la noi
+            Recenzii de la clienții care au ales electrocasnicele de la noi
           </p>
         </div>
         
