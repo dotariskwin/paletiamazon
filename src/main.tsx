@@ -6,10 +6,8 @@ import './index.css';
 // 👉 Vercel Analytics
 import { inject } from '@vercel/analytics';
 import { reportWebVitals } from '@vercel/speed-insights';
-import { injectSpeedInsights } from '@vercel/speed-insights';
 inject();
 reportWebVitals();
-injectSpeedInsights();
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
