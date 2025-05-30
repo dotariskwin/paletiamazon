@@ -75,7 +75,7 @@ const Home: React.FC = () => {
             </div>
             
             <div>
-              <h2 className="text-3xl font-bold text-navy-800 mb-4">De Ce Să Alegi Electrocasnice Recondiționate?</h2>
+              <h2 className="text-3xl font-bold text-navy-800 mb-4">De ce să alegi electrocasnice recondiționate?</h2>
               
               <p className="text-gray-700 mb-6 leading-relaxed">
                 La PaletShop, nu vindem doar electrocasnice - oferim o alternativă sustenabilă și economică 
