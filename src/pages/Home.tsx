@@ -68,7 +68,15 @@ const Home: React.FC = () => {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4 md:px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
-
+            <div 
+              className="rounded-lg overflow-hidden shadow-lg h-96 lg:h-[500px] relative"
+            >
+              <img 
+                src="https://img001.prntscr.com/file/img001/c8tQxxGfQ_2ixxQ3MgMvkA.jpg" 
+                alt="Despre PaletShop" 
+                className="w-full h-full object-cover"
+              />
+            </div>
 
             <div>
               <h2 className="text-3xl font-bold text-navy-800 mb-4">De ce să alegi electrocasnice recondiționate?</h2>
