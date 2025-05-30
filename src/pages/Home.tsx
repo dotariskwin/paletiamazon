@@ -71,11 +71,7 @@ const Home: React.FC = () => {
             <div 
               className="rounded-lg overflow-hidden shadow-lg h-96 lg:h-[500px] relative"
             >
-              <img 
-                src="https://img001.prntscr.com/file/img001/c8tQxxGfQ_2ixxQ3MgMvkA.jpg" 
-                alt="Despre PaletShop" 
-                className="w-full h-full object-cover"
-              />
+
             </div>
             
             <div>
